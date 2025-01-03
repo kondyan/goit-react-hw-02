@@ -1,0 +1,6 @@
+.btnList {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-bottom: 10px;
+}
